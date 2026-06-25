@@ -7,9 +7,9 @@ export default function Navbar() {
       
     <nav  className="navbar navbar-expand-lg bg-primary">
       <div className ="container-fluid">
-             <a className ="navbar-brand" href="#">
+             <span className ="navbar-brand">
         Full stack
-        </a>
+        </span>
     <button 
             className ="navbar-toggler"
             type="button" 
